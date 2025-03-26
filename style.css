@@ -76,3 +76,6 @@ footer{
     gap: 5px;
     font-size: 17px;
 }
+a{
+    text-decoration: none;
+}
