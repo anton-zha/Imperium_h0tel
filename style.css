@@ -32,11 +32,12 @@ header{
 }
 .info{
     width: 200px;
-    font-size: 17px;
+    font-size: 19px;
 }
 .content{
     display: flex;
     flex-direction: column;
+    text-align: left;
 }
 .foto{
     width: 320px;
